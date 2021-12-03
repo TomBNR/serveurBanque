@@ -5,7 +5,7 @@
 #include <QList>
 #include <serveurbanque.h>
 #include <QTableWidget>
-
+//test
 QT_BEGIN_NAMESPACE
 namespace Ui { class BanqueMainWindow; }
 QT_END_NAMESPACE
