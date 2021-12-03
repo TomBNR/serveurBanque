@@ -2,7 +2,7 @@
 #define COMPTECLIENT_H
 #include <QTcpSocket>
 #include "interfaceaccesbdbanque.h"
-
+//ta mère
 class CompteClient : public QTcpSocket
 {
 public:
